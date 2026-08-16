@@ -105,5 +105,5 @@ Die nächsten geplanten Schwerpunkte sind die weitere Absicherung privilegierter
 
 ## Mitwirkende
 
-Arkana wurde von **Tecro** und **Varoo** erstellt.
+Arkana wurde von **Tecro** und **Varoo** erstellt. Fortgeführt von Annila.
 
