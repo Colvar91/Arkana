@@ -1,5 +1,8 @@
 # Arkana
 
+[![Downloads](https://img.shields.io/github/downloads/Colvar91/Arkana/total?style=for-the-badge&label=Downloads)](https://github.com/Colvar91/Arkana/releases)
+[![Latest Release](https://img.shields.io/github/v/release/Colvar91/Arkana?style=for-the-badge&label=Version)](https://github.com/Colvar91/Arkana/releases/latest)
+
 **Arkana** ist ein rundenbasiertes Sammelkarten- und Duell-Addon für World of Warcraft. Es bringt Deckbau, Kartenpartien, Booster, Kosmetik, eine Rangliste und einen Zuschauermodus direkt in die WoW-Oberfläche.
 
 > Version `0.1.6` · Build `2026-08-16-f` · Interface `90207` · Sprache: Deutsch
