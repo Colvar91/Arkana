@@ -9,6 +9,11 @@
 
 Arkana befindet sich in aktiver Entwicklung. Die aktuelle Fassung ist noch keine Freigabe durch das Schattenhain-Team; Hinweise für eine spätere Abnahme stehen in [COMPLIANCE.md](COMPLIANCE.md).
 
+## Fehlermeldungen
+
+Wenn euch ein Fehler bei einer Karte oder Sonstiges auffallen sollte, könnt ihr über diesen Link einen Bug Report erstellen und ich kümmere mich dann darun.
+Link: [Klick mich!](http://217.154.91.96:5080/)
+
 ## Funktionen
 
 - Charaktergebundene Kartensammlung und mehrere Decks mit jeweils 30 Karten
