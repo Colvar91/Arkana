@@ -1,0 +1,36 @@
+## Interface: 90207
+## Title: Arkana
+## Notes: Sammelkarten-Duelle in WoW
+## Version: 0.1.6
+## SavedVariables: ARKANA_Version, ARKANA_Settings, ARKANA_Decks, ARKANA_Stats, ARKANA_ActionLog
+## SavedVariablesPerCharacter: ARKANA_CharData
+
+Libs\Ace3\LibStub\LibStub.lua
+Libs\Ace3\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\Ace3\AceComm-3.0\ChatThrottleLib.lua
+Libs\Ace3\AceAddon-3.0\AceAddon-3.0.lua
+Libs\Ace3\AceEvent-3.0\AceEvent-3.0.lua
+Libs\Ace3\AceComm-3.0\AceComm-3.0.lua
+Libs\Ace3\AceSerializer-3.0\AceSerializer-3.0.lua
+
+Core\CardData.lua
+Core\ClassicCardData.lua
+Core\Main.lua
+Core\GameEngine.lua
+Core\Network.lua
+Core\Bot.lua
+Core\Spectator.lua
+Core\CardBacks.lua
+Core\Collection.lua
+Core\Admin.lua
+Core\Ranked.lua
+UI\AdminTool.lua
+UI\Booster.lua
+UI\MainMenu.lua
+UI\SpectatorLobby.lua
+UI\DeckBuilder.lua
+UI\ChallengeWindow.lua
+UI\Mulligan.lua
+UI\ChooseOne.lua
+UI\Animations.lua
+UI\GameBoard.lua
