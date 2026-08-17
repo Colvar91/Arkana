@@ -1,5 +1,7 @@
 # Arkana
 
+![Test Image 1](https://i.ibb.co/wNYV7wST/exec-5e766e0f-f337-45f9-8b3e-a8217ab54adf.png)
+
 [![Downloads](https://img.shields.io/github/downloads/Colvar91/Arkana/total?style=for-the-badge&label=Downloads)](https://github.com/Colvar91/Arkana/releases)
 [![Latest Release](https://img.shields.io/github/v/release/Colvar91/Arkana?style=for-the-badge&label=Version)](https://github.com/Colvar91/Arkana/releases/latest)
 
